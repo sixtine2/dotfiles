@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lamysixtine@gmail.com
+	name = Sixtine Lamy
